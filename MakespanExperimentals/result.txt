@@ -1,0 +1,102 @@
+Input Uniform Distribution 1000:
+m = 5 machines
+Approximate Opt: 59581.76863746712
+List Schedule: 59581.76863746712
+MR Algorithm: 59581.76863746712
+Rand Algorithm: 76213.73503274976
+m = 50 machines
+Approximate Opt: 5967.278683563981
+List Schedule: 5967.278683563981
+MR Algorithm: 5967.485394936149
+Rand Algorithm: 7130.118713386598
+m = 150 machines
+Approximate Opt: 2035.3095636797054
+List Schedule: 2035.3095636797054
+MR Algorithm: 2035.3095636797054
+Rand Algorithm: 2330.2119174130034
+
+Input Uniform Distribution 10000:
+m = 5 machines
+Approximate Opt: 602324.5400496458
+List Schedule: 602324.5400496458
+MR Algorithm: 602324.5400496458
+Rand Algorithm: 770579.0976660638
+m = 50 machines
+Approximate Opt: 60232.69713681332
+List Schedule: 60232.69713681332
+MR Algorithm: 60232.69732623816
+Rand Algorithm: 72105.02263786347
+m = 150 machines
+Approximate Opt: 20112.147548787707
+List Schedule: 20112.147548787707
+MR Algorithm: 21439.688082831584
+Rand Algorithm: 23894.094315166923
+
+Input Normal Distribution 1000:
+m = 5 machines
+Approximate Opt: 59372.71156534721
+List Schedule: 59372.71156534721
+MR Algorithm: 59372.71156534721
+Rand Algorithm: 75940.84032164131
+m = 50 machines
+Approximate Opt: 5964.000506767127
+List Schedule: 5964.000506767127
+MR Algorithm: 5964.163703977284
+Rand Algorithm: 7134.302253420359
+m = 150 machines
+Approximate Opt: 2050.933247008219
+List Schedule: 2050.933247008219
+MR Algorithm: 2050.933247008219
+Rand Algorithm: 2382.72562984303
+
+Input Normal Distribution 10000:
+m = 5 machines
+Approximate Opt: 599608.775229123
+List Schedule: 599608.775229123
+MR Algorithm: 599608.775229123
+Rand Algorithm: 767096.1754157053
+m = 50 machines
+Approximate Opt: 59979.52371518146
+List Schedule: 59979.52371518146
+MR Algorithm: 59979.52353602732
+Rand Algorithm: 71716.4962311125
+m = 150 machines
+Approximate Opt: 20017.486169617518
+List Schedule: 20017.486169617518
+MR Algorithm: 21457.101256718408
+Rand Algorithm: 23710.705012682138
+
+Input Zipf Distribution 1000:
+m = 5 machines
+Approximate Opt: 1157
+List Schedule: 1157
+MR Algorithm: 1157
+Rand Algorithm: 1480
+m = 50 machines
+Approximate Opt: 495
+List Schedule: 495
+MR Algorithm: 495
+Rand Algorithm: 495
+m = 150 machines
+Approximate Opt: 495
+List Schedule: 495
+MR Algorithm: 495
+Rand Algorithm: 495
+
+Input Zipf Distribution 10000:
+m = 5 machines
+Approximate Opt: 10258
+List Schedule: 10258
+MR Algorithm: 10258
+Rand Algorithm: 13124
+m = 50 machines
+Approximate Opt: 2619
+List Schedule: 2619
+MR Algorithm: 2619
+Rand Algorithm: 2619
+m = 150 machines
+Approximate Opt: 2619
+List Schedule: 2619
+MR Algorithm: 2619
+Rand Algorithm: 2619
+
